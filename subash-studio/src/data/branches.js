@@ -6,7 +6,7 @@ export const branches = [
     address: "88 Main Road, Kalladaikurichi, Tamil Nadu 627416",
     phone: "+91 93457 06609",
     hours: "Mon – Sun, 08:00 AM – 09:00 PM",
-    image: "/images/gallery/branches/kalladaikurichi.jpg",
+    image: "/images/gallery/branches/Kalladaikurichi.jpg",
   },
 
   {
@@ -16,7 +16,7 @@ export const branches = [
     address: "Ahil Complex, S Bypass Rd, next to selam RR briyani, Vasanth Nagar, Tirunelveli, Tamil Nadu 627005",
     phone: "+91 93457 06609",
     hours: "Mon – Sun, 08:00 AM – 09:00 PM",
-    image: "/images/gallery/branches/tirunelveli.jpg",
+    image: "/images/gallery/branches/Tirunelveli.jpg",
   },
 
  
